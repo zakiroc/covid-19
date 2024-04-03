@@ -1,0 +1,262 @@
+.container-1{
+    width: 1480px;
+    height: 900px;
+    background-color:  #EDE6DD;
+    
+    
+}
+.logo{
+    position: absolute;
+    margin-left: 30px;
+}
+.a-1{
+    position: absolute;
+text-decoration: none;
+margin-left: 1000px;
+margin-top: 30px;
+color: black;
+
+
+}
+ul{
+    list-style-type: none;
+}
+.row{
+    display: flex;
+    gap: 35px;
+}
+.h1-1{
+    margin-top: 150px;
+    font-size: 60px;
+    margin-left: 55px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: lighter;
+}
+.p-1{
+    margin-left: 57px;
+    font-family: 'Mulish', sans-serif;
+    
+
+}
+.p-2{
+    margin-left: 57px;
+    font-family: 'Mulish', sans-serif;
+   margin-top: -20px;
+    
+
+}
+.p-3{
+    margin-left: 57px;
+    font-family: 'Mulish', sans-serif;
+    margin-top: -20px;
+   
+    
+
+}
+.img-1{
+    margin-left: 950px;
+    margin-top: -250px;
+}
+input{
+    border: none;
+    background-color: white ;width: 350px;height: 45px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 5;
+    margin-left: 57px;
+    margin-top: -80px;
+}
+
+.hello{
+    border: none;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+ margin-left: 250px;
+margin-top: -74px;
+    position: absolute;
+    z-index: 10;
+ 
+    
+}
+.container-2{
+    background: #FFD394;
+width: 1480px;
+height: 800px;
+position: static;
+}
+.img{
+    background-image: url(https://static.tweaktown.com/news/8/5/85570_25_nasa-spots-helicopter-on-the-surface-of-mars-from-space_full.jpg);
+    width: 1200px;
+    height: 450px;
+    position: absolute;
+  margin-left: 130px;
+  margin-top: -170px;
+}
+
+.p-11{
+    color: white;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 350px;
+    font-weight: bold;
+  
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    margin-top: 130px;
+  margin-left: 20px;
+}
+.p-22{
+    color: white;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    margin-top: 40px;
+    position: absolute;
+    margin-left: 350px;
+    font-weight: bold;
+}
+    .p-33{
+        color: white;
+        text-align: center;
+        font-family: 'Mulish', sans-serif;
+        margin-top: 50px;
+        position: absolute;
+        margin-left: 380px;
+        font-weight: bold;
+    }
+    .learn{
+        border: 2px solid white ;
+       background-image: url(https://static.tweaktown.com/news/8/5/85570_25_nasa-spots-helicopter-on-the-surface-of-mars-from-space_full.jpg); width: 10px;
+        color: white;
+        width: 150px;
+        height: 50px;
+        border-radius: 25px;
+        font-weight: bold;
+        margin-left: 540px;
+        margin-top: 100px;
+        }
+        .h1-22{
+            position: absolute;
+            font-family: 'Mulish', sans-serif;
+            color: black;
+            margin-top: 420px;
+          font-weight: 700;
+            font-size: 48px;
+            margin-left: 130px;
+
+        }
+        input::placeholder{
+            text-indent: 20px;
+        }
+     .img-66{
+        margin-top: 450px;
+        position: absolute;
+        margin-left: 800px;
+     }
+     .img-77{
+        margin-top: 600px;
+        margin-left: 801px;
+        position: absolute;
+     }
+     .lo{
+        position: absolute;
+        font-family: 'Mulish', sans-serif;
+        margin-top: 460px;
+        margin-left: 870px;
+        font-size: 20px;
+
+     }
+        .op{
+            position: absolute;
+            font-family: 'Mulish', sans-serif;
+            margin-top: 497px;
+            margin-left: 870px;
+            
+        }
+        .ol{
+            position: absolute;
+            font-family: 'Mulish', sans-serif;
+          margin-top: 609px;
+          font-size: 20px;
+          margin-left: 870px;
+    
+         }
+         .po{
+            position: absolute;
+            font-family: 'Mulish', sans-serif;
+            margin-top: 650px;
+            margin-left: 870px;
+         
+        }
+        .footer{
+            background:white;
+            width: 1480px;
+            height: 20px;
+          position: absolute;
+          margin-top: 1000px;
+         
+
+
+        }
+        .ye{
+            font-family: 'Mulish', sans-serif;
+            font-size: 20px;
+            position: absolute;
+            margin-top: -90px;
+            margin-left: 40px;
+            align-items: center;
+        }
+        .ye-1{
+            font-family: 'Mulish', sans-serif;
+            font-size: 20px;
+            position: absolute;
+            margin-left: 250px;
+            margin-top: -90px;
+            align-items: center;
+        }
+        .pi{
+            color: white;
+            background-color: black;
+            border: none;
+            width: 205px;
+            height: 45px;
+            border-radius: 25px;
+            margin-left: 800px;
+            margin-top: -90px;
+            position: absolute;
+        }
+        .row-99{
+            display: flex;
+          gap: 16px;
+        }
+        .we{
+            position: absolute;
+            width: 50px;
+            margin-left: 1130px;
+            margin-top: -92px;
+        }
+        .we-1{
+            position: absolute;
+            width: 50px;
+            margin-left: 1200px;
+            margin-top: -92px;
+        }
+        .we-2{
+            position: absolute;
+            width: 50px;
+            margin-left: 1270px;
+            margin-top: -92px;
+        }
+        .we-3{
+            position: absolute;
+            width: 50px;
+            margin-left: 1340px;
+            margin-top: -92px;
+        }
